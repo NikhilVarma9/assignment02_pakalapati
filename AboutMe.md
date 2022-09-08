@@ -23,3 +23,22 @@ I am 21 and very interested in learning new technologies. I am a wanderlust and 
 > For every action there is equal reaction *Newton*
 
 ---
+
+## Code fencing
+
+> How to position Left/Right buttons on top of left/right edges of image?
+
+[Stack overflow](https://stackoverflow.com/questions/73643601/how-to-position-left-right-buttons-on-top-of-left-right-edges-of-image)
+
+```
+@mixin position($position, $top: null, $right: null, $bottom: null, $left: null) {
+  position: $position;
+  top: $top;
+  right: $right;
+  bottom: $bottom;
+  left: $left;
+}
+
+```
+
+[csstricks](https://css-tricks.com/snippets/sass/mixin-offset-positioning/)
