@@ -15,3 +15,10 @@ I am 21 and very interested in learning new technologies. I am a wanderlust and 
 |Delhi |Taj |3 days |
 
 ---
+
+## Quotes
+
+> Where there is a will there is a way * Albert Hill*
+> For every action there is equal reaction *Newton*
+
+---
