@@ -11,3 +11,4 @@
     2. Walt for around 1KM to the Bus stop opposite to the first exit
     3. Take a bus to the airport, which will take around 10 mins to travel
     4. Your destination will be on the left side.
+* Around the Museum, I would recommend the Visitors to visit the Waterfall and the Wildlife reserve park.
